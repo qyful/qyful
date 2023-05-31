@@ -12,4 +12,4 @@ At the moment, I am learning ReactJS and Svelte.
 
 ### 📫 How can I reach you?
 
-The best place to reach me is to send me a message on Discord at `Qyful#1800` or `@Qyful` on all socials! Also, feel free to check out my website [https://www.oliwiersporny.com](here)!
+The best place to reach me is to send me a message on Discord at `Qyful#1800` or `@Qyful` on all socials! Also, feel free to check out my website [here](https://oliwiersporny.com/)!
