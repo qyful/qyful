@@ -4,11 +4,11 @@ My name is **Oliwier**, but most people call me Oli or by my online username "Qy
 
 ### ⚡ What technologies do you work with?
 
-Currently, I work with numerous different programming languages such as C# and Python. I also work extensively with HTML, SCSS/CSS, JavaScript (including VueJS).
+Currently, I work with numerous different programming languages such as C# and Python. I also work extensively with HTML, SCSS/CSS, JavaScript (including numerous frameworks, like Vue or Svelte).
 
 ### 🌱 What are you currently learning?
 
-At the moment, I am learning ReactJS and Svelte.
+At the moment, I am learning ReactJS.
 
 ### 📫 How can I reach you?
 
